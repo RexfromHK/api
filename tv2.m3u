@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PetClubTV.hk" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1,泉州四套
+rtmp://live.qztv.cn/live/mny
